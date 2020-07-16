@@ -1,6 +1,6 @@
 ## Hi there, my name is Jake and welcome to my GitHub Page 👋
 
-## I am a full stack developer who relies on JavaScript and React to solve problems but is also highly interested in learning Python
+### I am a full stack developer who relies on JavaScript and React to solve problems but is also highly interested in learning Python
 
 <!-- **JakeG-9191/JakeG-9191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,20 +14,20 @@ Here are some ideas to get you started: -->
 ### 🌱 I’m currently learning ...
 
 - CS50 edX
-- More React, always more React
+- More React, always more React and Hooks
 - Python
 
 ### 👯 I’m looking to collaborate on ...
 
-Any open source or creative projects, I am especially passionate about local, state, national and international politics as well as the outdoors and personal growth and education
+Any open source or creative projects, I am especially passionate about local, state, national and international politics as well as the outdoors and personal growth and education for under represented communities
 
 ### 🤔 I’m looking for help with ...
 
-Many things coding related, QA, tests, React, Python, OOP and more
+Many things coding related, QA, tests, React, Python, TensorFlow, OOP and more...
 
 ### 💬 Ask me about ...
 
-My transition into coding from project managment, research and regional planning or my master's thesis in Political Science about the effectivnesss of STEM legislation when measured against economic activity at the individual state level
+My transition into coding from project managment, research and regional planning or my master's thesis in Political Science about the effectivnesss of STEM education legislation when measured against economic activity at the individual state level
 
 ### 📫 How to reach me: ...
 
@@ -39,8 +39,8 @@ My transition into coding from project managment, research and regional planning
 
 He / His / Him
 
-### ⚡ Fun fact: ...
+### ⚡ Fun facts: ...
 
 - I have some really killer dad jokes :+1:
-- I like camping, rafting and the desert :+1:
+- I like camping, rafting, photography and the desert :+1:
 - I love to create, and coding has allowed me to follow that passion :+1:
