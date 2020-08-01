@@ -19,15 +19,11 @@ Here are some ideas to get you started: -->
 
 ### 👯 I’m looking to collaborate on ...
 
-Any open source or creative projects, I am especially passionate about local, state, national and international politics as well as the outdoors and personal growth and education for under represented communities
+Any open source or creative projects, I am especially passionate about local, state, national and international politics as well as the outdoors and personal growth and education for under represented communities. Oh and space, I consider myself very lucky for being part of a generation that will likely see humanity on Mars.
 
 ### 🤔 I’m looking for help with ...
 
 Many things coding related, QA, tests, React, Python, TensorFlow, OOP and more...
-
-### 💬 Ask me about ...
-
-My transition into coding from project managment, research and regional planning or my master's thesis in Political Science about the effectivnesss of STEM education legislation when measured against economic activity at the individual state level
 
 ### 📫 How to reach me: ...
 
@@ -41,6 +37,6 @@ He / His / Him
 
 ### ⚡ Fun facts: ...
 
-- I have some really killer dad jokes :+1:
+- I have a BA in Political Science and studied History before learning to code :+1:
 - I like camping, rafting, photography and the desert :+1:
 - I love to create, and coding has allowed me to follow that passion :+1:
