@@ -1,6 +1,6 @@
 ## Hi there, my name is Jake and welcome to my GitHub Page 👋
 
-### I am a full stack developer who relies on JavaScript and React to solve problems but is also highly interested in learning Python
+### I am a full stack developer, working with JavaScript, Java, React, PostgreSQL and more to solve a variety of problems.
 
 <!-- **JakeG-9191/JakeG-9191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,22 +8,20 @@ Here are some ideas to get you started: -->
 
 ### 🔭 I’m currently working on ...
 
-- [MutualAid.World Application](https://github.com/JakeG-9191/resilience-app) / [Landing Page](https://github.com/JakeG-9191/resilience-landing-page)
+- [Kayhan Space - Front End Developer](https://www.kayhan.space/#1)
 - [Technical Writing - Medium](https://medium.com/@bjornsin)
 
 ### 🌱 I’m currently learning ...
 
-- CS50 edX
-- More React, always more React and Hooks
-- Python
+- Java
+- PostgreSQL
+- JavaScript
+- React
 
 ### 👯 I’m looking to collaborate on ...
 
-Any open source or creative projects, I am especially passionate about local, state, national and international politics as well as the outdoors and personal growth and education for under represented communities. Oh and space, I consider myself very lucky for being part of a generation that will likely see humanity on Mars.
+Any open source or creative projects, I am especially passionate about local, state, national and international politics as well as the outdoors, education and aerospace.
 
-### 🤔 I’m looking for help with ...
-
-Many things coding related, QA, tests, React, Python, TensorFlow, OOP and more...
 
 ### 📫 How to reach me: ...
 
@@ -35,8 +33,6 @@ Many things coding related, QA, tests, React, Python, TensorFlow, OOP and more..
 
 He / His / Him
 
-### ⚡ Fun facts: ...
+### ⚡ Fun fact: ...
 
-- I have a BA in Political Science and studied History before learning to code :+1:
-- I like camping, rafting, photography and the desert :+1:
-- I love to create, and coding has allowed me to follow that passion :+1:
+- I have a BA and MA in Political Science and studied History before learning to code :+1:
