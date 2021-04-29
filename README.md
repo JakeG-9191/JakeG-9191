@@ -1,8 +1,8 @@
 ## Hi there, my name is Jake and welcome to my GitHub Page 👋
+---
+Current Role - [Kayhan Space - Front End Developer](https://www.kayhan.space/#1)
 
 I am a full stack developer, working with JavaScript, Java, React, PostgreSQL and more to solve a varitey of problems. Beyond designing, coding and collaborating on some awesome projects both professional and personal, I also enjoy writing about technical concepts and topics related to programming.
-
-Current Role - [Kayhan Space - Front End Developer](https://www.kayhan.space/#1)
 
 
 <!-- **JakeG-9191/JakeG-9191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
