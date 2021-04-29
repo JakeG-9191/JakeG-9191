@@ -5,21 +5,16 @@ I am a full stack developer, working with JavaScript, Java, React, PostgreSQL an
 - [Kayhan Space - Front End Developer](https://www.kayhan.space/#1)
 - [Technical Writing - Medium](https://medium.com/@bjornsin)
 
+
 <!-- **JakeG-9191/JakeG-9191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+---
 
 ### 🧰 Toolbox
 
-<img src="https://worldvectorlogo.com/logo/html5.svg" alt="HTML5 Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://worldvectorlogo.com/logo/aws-2.svg" alt="AWS Logo" width="50" height="50"/>
-<img src="https://worldvectorlogo.com/logo/react-1.svg" alt="React Logo" width="50" height="50"/>
-<img src="https://worldvectorlogo.com/logo/material-ui-1.svg" alt="MaterialUI Logo" width="50" height="50"/>
-<img src="https://worldvectorlogo.com/logo/postgresql.svg" alt="PostGreSQL Logo" width="50" height="50"/>
-<img src="https://worldvectorlogo.com/logo/express-109.svg" alt="Express Logo" width="50" height="50"/> 
-<img src="https://worldvectorlogo.com/logo/nodejs-1.svg" alt="Node.js Logo" width="50" height="50"/>
-<img src="https://worldvectorlogo.com/logo/git.svg" alt="Git Logo" width="50" height="50"/> 
-<img src="https://worldvectorlogo.com/logo/java-4.svg" alt="Java Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/tree/master/icons/amazonwebservices" alt="AWS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MaterialUI Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostGreSQL Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/tree/master/icons/express" alt="Express Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/> 
+
+---
 
 ### 📘 Latest Articles
 
@@ -28,11 +23,15 @@ I am a full stack developer, working with JavaScript, Java, React, PostgreSQL an
 
 ▶ [...more blog articles](https://medium.com/@bjornsin)
 
+---
+
 ### 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/jacob-garlick/)
 - [Portfolio](https://jacob-garlick.com/)
 - [Twitter](https://twitter.com/garlick_jake)
+
+---
 
 ### &#x1f4c8; My GitHub Stats
 
