@@ -18,6 +18,11 @@ I am a full stack developer, working with JavaScript, Java, React, PostgreSQL an
 ### 📘 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Build A REST API With HarperDB and FastifyJS](https://catalins.tech/build-a-rest-api-with-harperdb-and-fastifyjs)
+- [How To Make Money With Technical Articles As A Developer](https://catalins.tech/how-to-make-money-with-technical-articles-as-a-developer)
+- [Learn The Fundamentals Of Vue JS With Vue 3](https://catalins.tech/learn-the-fundamentals-of-vue-js-with-vue-3)
+- [How To Delete All Local Git Branches In One Go](https://catalins.tech/how-to-delete-all-local-git-branches-in-one-go)
+- [The Fastest Way To Replace All Occurrences Of A String In JavaScript](https://catalins.tech/the-fastest-way-to-replace-all-occurrences-of-a-string-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles](https://medium.com/@bjornsin)
