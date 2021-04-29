@@ -5,9 +5,7 @@ I am a full stack developer, working with JavaScript, Java, React, PostgreSQL an
 - [Kayhan Space - Front End Developer](https://www.kayhan.space/#1)
 - [Technical Writing - Medium](https://medium.com/@bjornsin)
 
-<!-- **JakeG-9191/JakeG-9191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
----
+<!-- **JakeG-9191/JakeG-9191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### 🧰 Toolbox
 
@@ -23,9 +21,7 @@ I am a full stack developer, working with JavaScript, Java, React, PostgreSQL an
 <img src="https://worldvectorlogo.com/logo/git.svg" alt="Git Logo" width="50" height="50"/> 
 <img src="https://worldvectorlogo.com/logo/java-4.svg" alt="Java Logo" width="50" height="50"/> 
 
----
-
-### 📘 Latest Blog Articles
+### 📘 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
